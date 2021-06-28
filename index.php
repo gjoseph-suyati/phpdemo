@@ -24,6 +24,6 @@
   </style>
 </head>
  <body>
-  <?php echo '<p>Hello World</p>'; ?> 
+  <?php echo '<h1>Hello World</h1>'; ?> 
  </body>
 </html>
