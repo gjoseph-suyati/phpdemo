@@ -26,8 +26,7 @@
  <body>
   <?php echo '<h1>Hello World</h1>'; ?> 
   <?php
-     $name= gethostname();
+    echo gethostname();
   ?>
-   <?php echo '<h1>$name</h1>'; ?> 
  </body>
 </html>
