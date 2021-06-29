@@ -25,11 +25,10 @@
 </head>
  <body>
   <?php echo '<h1>.............Hello SolutionTree..............</h1>'; ?> 
+  <h2>
   <?php
     echo gethostname();
-  ?><br>
-   <?php
-    echo gethostname();
   ?>
- </body>
+  </h2>
+  </body>
 </html>
