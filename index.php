@@ -27,7 +27,7 @@
   <?php echo '<h1>Hello SolutionTree</h1>'; ?> 
   <?php
     echo gethostname();
-  ?>
+  ?><br>
    <?php
     echo gethostname();
   ?>
