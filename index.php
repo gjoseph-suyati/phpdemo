@@ -28,5 +28,8 @@
   <?php
     echo gethostname();
   ?>
+   <?php
+    echo gethostname();
+  ?>
  </body>
 </html>
