@@ -31,10 +31,5 @@
   ?>
   </h2>
   <br>
-  <h2>
-  <?php
-   echo "The time is " . date("h:i:sa");
-  ?>
-  </h2>
   </body>
 </html>
