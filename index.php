@@ -24,7 +24,7 @@
   </style>
 </head>
  <body>
-  <?php echo '<h1>.............Hello SolutionTree..............</h1>'; ?> 
+  <?php echo '<h1>Hello SolutionTree..</h1>'; ?> 
   <h2>
   <?php
     echo gethostname();
